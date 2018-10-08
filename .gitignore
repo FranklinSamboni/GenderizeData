@@ -1,0 +1,8 @@
+node_modules
+bower_components
+.idea
+mgh.log
+.env
+.serverless
+.vscode
+app/utils/constants.js
